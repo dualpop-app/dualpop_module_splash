@@ -16,6 +16,10 @@ dependencies:
     git:
       url: https://github.com/dualpop-app/dualpop_commons_dependencies
       ref: main
+  dualpop_core:
+    git:
+      url: https://github.com/dualpop-app/dualpop_core
+      ref: main
 
 dev_dependencies:
   flutter_test:
