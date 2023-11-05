@@ -24,7 +24,7 @@ class _SplashPageState extends State<SplashPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // backgroundColor: AppColorsDS.brandColorPrimaryMain,
+     backgroundColor: const Color(0xFF363272),
       body: Center(
         child: Stack(
           children: <Widget>[
