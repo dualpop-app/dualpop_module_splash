@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:dualpop_core/dualpop_core_app.dart';
+import 'package:dualpop_commons_dependencies/dualpop_commons_dependencies.dart';
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatefulWidget {

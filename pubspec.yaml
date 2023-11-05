@@ -12,9 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
   #packages from github
-  dualpop_core:
+  dualpop_commons_dependencies:
     git:
-      url: https://github.com/dualpop-app/dualpop_core
+      url: https://github.com/dualpop-app/dualpop_commons_dependencies
       ref: main
 
 dev_dependencies:
